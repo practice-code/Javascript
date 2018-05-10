@@ -1,0 +1,1 @@
+>Namespaces are used to group the mixins under a common name. Using namespaces, you can avoid conflict in name and encapsulate a group of mixins from outside
