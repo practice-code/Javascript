@@ -1,0 +1,1 @@
+>Variable scope specifies the place of the available variable. The variables will be searched from the local scope and if they are not available, then compiler will search from the parent scope
