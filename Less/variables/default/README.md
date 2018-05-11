@@ -1,0 +1,1 @@
+>Default variable has an ability to set a variable only when it's not already set. This feature is not required because variables can be easily overridden by defining them afterwards

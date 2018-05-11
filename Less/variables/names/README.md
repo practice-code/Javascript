@@ -1,0 +1,1 @@
+>We can define the variables with a variable name consisting of a value.

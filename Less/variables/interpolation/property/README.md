@@ -1,0 +1,1 @@
+>The variables can be referenced by properties.

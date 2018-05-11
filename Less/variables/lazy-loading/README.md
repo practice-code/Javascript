@@ -1,0 +1,1 @@
+>In lazy loading, variables can be used even when they are not declared.

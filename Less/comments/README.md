@@ -1,0 +1,1 @@
+>Comments make the code clear and understandable for the users. You can use both the block style and the inline comments in the code, but when you compile the LESS code, the single line comments will not appear in the CSS file.

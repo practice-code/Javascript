@@ -1,0 +1,1 @@
+>The variables can be used to hold the URLs.

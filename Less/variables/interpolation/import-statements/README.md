@@ -1,0 +1,1 @@
+>An import statement can have a variable which holds a path. This is very useful when you are referring a common parent directory
