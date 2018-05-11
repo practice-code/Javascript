@@ -1,0 +1,10 @@
+.outerMixin(@value) {
+  .nestedMixin() {
+    font-size: @value;
+  }
+}
+
+.myclass {
+  .outerMixin(30);
+  .nestedMixin();
+}

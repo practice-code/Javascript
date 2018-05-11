@@ -1,0 +1,1 @@
+>When guard is applied to namespace, a mixin defined by the namespace is used only when guard condition returns true. The namespace guard is similar to guard on mixins.

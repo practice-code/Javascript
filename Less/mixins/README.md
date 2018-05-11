@@ -1,0 +1,1 @@
+>Mixins are similar to functions in programming languages. Mixins are a group of CSS properties that allow you to use properties of one class for another class and includes class name as its properties. In LESS, you can declare a mixin in the same way as CSS style using class or id selector. It can store multiple values and can be reused in the code whenever necessary

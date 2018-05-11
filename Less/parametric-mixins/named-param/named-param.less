@@ -1,0 +1,12 @@
+.mixin(@color: black; @fontSize: 10px) {
+  color: @color;
+  font-size: @fontSize;
+}
+
+.class1 {
+  .mixin(@fontSize: 20px; @color: #F5A9D0);
+}
+
+.class2 {
+  .mixin(#F79F81; @fontSize: 20px);
+}

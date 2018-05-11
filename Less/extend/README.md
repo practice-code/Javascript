@@ -1,0 +1,1 @@
+>Extend is a LESS pseudo class which extends other selector styles in one selector by using :extend selector

@@ -1,0 +1,13 @@
+.mixin(dark; @color) {
+  color: darken(@color, 15%);
+}
+
+.mixin(light; @color) {
+  color: lighten(@color, 15%);
+}
+
+@color-new: dark;
+
+.myclass {
+  .mixin(@color-new; #FF0000);
+}

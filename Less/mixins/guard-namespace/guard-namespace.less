@@ -1,0 +1,10 @@
+@import "http://localhost/nodejs/Less/mixins/guard-namespace/lib.less";
+#namespace when (@color = blue) {
+  .mixin() {
+    color: red;
+  }
+}
+
+p {
+  #namespace .mixin();
+}

@@ -1,0 +1,1 @@
+>Detached ruleset contains rulesets such as properties, nested rulesets, variables declaration, mixins, etc. It is stored in a variable and included in another structure; all the properties of the ruleset get copied to that structure.

@@ -1,0 +1,8 @@
+.padding(@x, @y) {
+  @padding: ((@x + @y) / 2);
+}
+
+.myclass{
+  .padding(80px, 120px);  // call to the mixin
+  padding-left: @padding; //  returns the value
+}

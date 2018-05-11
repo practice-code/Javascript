@@ -1,0 +1,1 @@
+>Mixins provide parameter values instead of positions by using their names. Parameters don't have any order for placing values and they can be referenced by name. The result of named parameters is easier to read and provides clear codes

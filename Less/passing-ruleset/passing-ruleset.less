@@ -1,0 +1,11 @@
+@detached-ruleset: {
+  .mixin() {
+    font-family: "Comic Sans MS";
+    background-color: #AA86EE;
+  }
+};
+
+.cont {
+  @detached-ruleset();
+  .mixin();
+}

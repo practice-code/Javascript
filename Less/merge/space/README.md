@@ -1,0 +1,1 @@
+>The Merge Space feature adds property value with space.

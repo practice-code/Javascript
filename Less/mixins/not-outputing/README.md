@@ -1,0 +1,1 @@
+>It is possible to create a mixin and it can be made to disappear in the output by simply placing the parentheses after it

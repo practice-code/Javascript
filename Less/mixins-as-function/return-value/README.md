@@ -1,0 +1,1 @@
+>Mixins are similar to functions and the variables that are defined in a mixin will behave as its return values.

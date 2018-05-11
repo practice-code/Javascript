@@ -1,0 +1,1 @@
+>The !important keyword is used to override the particular property. When it is placed after mixin call, it marks all inherited properties as !important.

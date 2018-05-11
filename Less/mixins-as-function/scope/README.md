@@ -1,0 +1,1 @@
+>Mixins consisting of variables are visible and can be used in caller's scope. But there is one exception, if the caller contains a variable with the same name, then that variable is not copied into the caller's scope. Only the variables inside the caller’s scope are protected and the inherited variables are overridden
